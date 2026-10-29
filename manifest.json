@@ -1,0 +1,9 @@
+{
+  "id": "disable-sidebar-swipes",
+  "name": "Disable Sidebar Swipes",
+  "version": "0.1.0",
+  "minAppVersion": "1.14.4",
+  "description": "Disable single-finger horizontal sidebar swipe gestures on iPadOS.",
+  "author": "Danny",
+  "isDesktopOnly": false
+}
